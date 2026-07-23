@@ -29,3 +29,23 @@ Tuples and tuple unpacking
 Functions with parameters and return values
 List unpacking
 Basic set operations (union, intersection, difference)
+
+### 4. Student Grade Management System
+
+A simple Python-based Student Grade Management System that allows users to add, update, delete, and view student grades. This project demonstrates the use of functions, dictionaries, loops, and conditional statements in Python.
+
+## Features
+- Add new students with grades
+- Update student grades
+- Delete student records
+- View all students and grades
+- Simple menu-driven interface
+
+## Technologies Used
+- Python
+- Dictionary Data Structure
+
+## How to Run
+1. Clone the repository
+2. Run the Python file:
+
