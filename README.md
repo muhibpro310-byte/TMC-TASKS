@@ -41,11 +41,34 @@ A simple Python-based Student Grade Management System that allows users to add, 
 - View all students and grades
 - Simple menu-driven interface
 
-## Technologies Used
-- Python
-- Dictionary Data Structure
+# Python Mini Projects
 
-## How to Run
-1. Clone the repository
-2. Run the Python file:
+A collection of simple Python beginner projects that demonstrate basic programming concepts such as functions, loops, conditional statements, user input handling, and error handling.
+
+## Projects Included
+
+### 1. Multiplication Table
+- Generates a multiplication table for any number entered by the user.
+- Uses loops and formatted output.
+
+### 2. FizzBuzz
+- A classic programming exercise that checks numbers based on divisibility rules:
+  - Multiples of 3 → Fizz
+  - Multiples of 5 → Buzz
+  - Multiples of both → FizzBuzz
+
+### 3. Guessing Game
+- A simple number guessing game where the user tries to guess the secret number.
+- Provides hints like "Too high" or "Too low".
+- Tracks the number of attempts.
+
+## Features
+- Menu-driven interface
+- User input validation
+- Error handling
+- Functions for better code organization
+- Beginner-friendly Python examples
+
+
+
 
